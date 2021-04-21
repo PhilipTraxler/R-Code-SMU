@@ -1,0 +1,2 @@
+# Summarize MPG Data  
+summarize(mpg$city)
